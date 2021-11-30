@@ -14,6 +14,8 @@ test('this test should pass', (expect) => {
 });
 
 
+test(`This function should take an arracy and return the second item in the array`)
+
 skip('this test should be skipped', (expect) => {
     const expected = true;
 
